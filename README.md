@@ -38,7 +38,7 @@ I have fine-tune a variety of open-weight LLMs using Unsloth AI for different sp
 
 ---
 
-## Part E: Resume Training from Checkpoint  
+## Part E: Training from Checkpoint  
 **Model:** TinyLlama  
 - **Objective:** Demonstrate how to stop and restart fine-tuning from an intermediate checkpoint.  
 - 📄 [Open in Colab](<your-colab-link-here>)
