@@ -59,3 +59,26 @@ I have fine-tune a variety of open-weight LLMs using Unsloth AI for different sp
 
 
 YouTube Demo explaning : 
+
+Playlist Description
+Dive into end-to-end LLM development with Unsloth AI across two comprehensive walkthroughs:
+
+Video 1 – Parts A–C: Supervised Fine-Tuning & Pretraining  : https://youtu.be/t0BZKt2sifM
+
+A: Fine-tuning Llama 3.1, Mistral NeMo, Gemma 2, and Phi-3 on task-specific datasets
+
+B: Continued Pretraining of TinyLlama for Hindi
+
+C: Chat-Template Applications (classification, multi-turn chat, extended context, multi-dataset finetune)
+
+--- 
+
+Video 2 – Parts D–G: Reward Modeling, Checkpoints & Deployment : https://youtu.be/jkwhGBECcKc
+
+D: Reward Modeling (ORPO & DPO with Phi-3 Mini)
+
+E: Resuming Fine-Tuning from a Checkpoint (TinyLlama)
+
+F: Mental-Health Chatbot (Phi-3 Mini)
+
+G: Export & Inference with Ollama (Llama 3)
